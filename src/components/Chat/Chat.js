@@ -8,8 +8,8 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-//const ENDPOINT = 'https://dreygroupchat.herokuapp.com/';
-const ENDPOINT = 'localhost:5000';
+const ENDPOINT = 'https://dreygroupchat.herokuapp.com/';
+//const ENDPOINT = 'localhost:5000';
 
 let socket;
 
